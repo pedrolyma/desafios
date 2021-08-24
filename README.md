@@ -1,2 +1,2 @@
-# desafios resulvidos da digitalinnovation
+# desafios resolvidos da digital-innovation
 ## desenvolvimento intermediario e avançado
